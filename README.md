@@ -1,5 +1,9 @@
 ### classification
+
 classifcation shop
+
+python version 3.11.4
+vscode
 
 분류 기능 구현
 1. 카테고리별 대분류
